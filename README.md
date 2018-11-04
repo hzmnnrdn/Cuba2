@@ -22,8 +22,9 @@ Add more user interactions with jQuery</td> </tr>
   <tr> <td>Ahmad Arif bin Abu Zaimah 1615283</td> <td>Pages: Research, Statistics, Types of Blood Diseases <br>
 Web element: Graphics</td> <td>Add on graphics for ‘Research’ page
 Use of Third Party Resources</td> </tr>
-</table>
+</table> <br>
 
+<b>Use of the third party resources</b>
 <table> <tr> <th>Web Elements</th> <th>Team member</th> <th>Modifications</th> </tr>
   <tr> <td>Accordion widget</td> <td>Hazmi</td> <td>Background colours of ui-accordion-header
 and ui-accordion contents.</td> </tr>
